@@ -1,0 +1,14 @@
+C:\Users\diana\OneDrive\Desktop\conto_corrente\bin\Debug\net8.0\conto_corrente.exe
+C:\Users\diana\OneDrive\Desktop\conto_corrente\bin\Debug\net8.0\conto_corrente.deps.json
+C:\Users\diana\OneDrive\Desktop\conto_corrente\bin\Debug\net8.0\conto_corrente.runtimeconfig.json
+C:\Users\diana\OneDrive\Desktop\conto_corrente\bin\Debug\net8.0\conto_corrente.dll
+C:\Users\diana\OneDrive\Desktop\conto_corrente\bin\Debug\net8.0\conto_corrente.pdb
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.dll
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\refint\conto_corrente.dll
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.pdb
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\conto_corrente.genruntimeconfig.cache
+C:\Users\diana\OneDrive\Desktop\conto_corrente\obj\Debug\net8.0\ref\conto_corrente.dll
